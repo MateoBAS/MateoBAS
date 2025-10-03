@@ -4,8 +4,8 @@
 
 - 🎓 I have a degree in Physics and I am currently studying a Master's in Financial Technologys.  
 - 💡 Passionate about building system models and running simulations to understand their dynamics.
-- 🌱 Constantly learning about complex systems, and simulation techniques.  
-- 🏡 Based in **Zaragoza, Spain**.  
+- 🌱 Constantly learning about complex systems, and financial techniques. 
+- 🏡 Based in **Madrid, Spain**.  
 
 <br>
 
