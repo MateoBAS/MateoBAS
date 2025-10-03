@@ -11,10 +11,12 @@
 
 ## Languages & Technologies 🚀  
 <p align="left">
+  <img src="https://img.icons8.com/fluency/48/000000/sql.png"/>  
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> 
   <img src="https://img.icons8.com/color/48/000000/python.png"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="cplusplus" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Processing_2021_logo.svg/900px-Processing_2021_logo.svg.png" alt="processing" width="40" height="40"/>
 </p>  
 
